@@ -1,5 +1,5 @@
 # To Do (IMPORTANT)
-Make sure the logos follow branding guidelines to avoid legal issues
+Make sure the logos follow branding guidelines to avoid legal issues  
 For microsoft: https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks
 
 
